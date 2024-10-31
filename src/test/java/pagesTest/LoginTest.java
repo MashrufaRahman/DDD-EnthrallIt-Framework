@@ -4,8 +4,8 @@ import org.testng.annotations.Test;
 
 import baseUtil.BaseClass;
 
-public class LoginTest extends BaseClass{
-	
+public class LoginTest extends BaseClass {
+
 	@Test
 	public void loginTest() {
 		login.validationLogoAndTitle();
@@ -14,8 +14,7 @@ public class LoginTest extends BaseClass{
 		login.ValidationPassword("Abcd12345%");
 		login.ValideLogInButton();
 		login.landingOnDashboard();
-		
+
 	}
-	
 
 }

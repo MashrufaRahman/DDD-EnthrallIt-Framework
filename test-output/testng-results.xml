@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
       <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT<br>]]>
@@ -11,34 +11,34 @@
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
-    </line>
-    <line>
-      <![CDATA[Sleeping ... zZz 4000<br>]]>
-    </line>
-    <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
-    </line>
-    <line>
-      <![CDATA[tasnimchowdhury.qa@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@name='username']]<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
     </line>
     <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
-      <![CDATA[Darimee2010 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@id = 'password']]<br>]]>
+      <![CDATA[tasnimchowdhury.qa@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@name='username']]<br>]]>
     </line>
     <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+    </line>
+    <line>
+      <![CDATA[Darimee2010 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@id = 'password']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 4000<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
     </line>
     <line>
       <![CDATA[Proxy element for: DefaultElementLocator 'By.cssSelector: input.btn.btn-lg.px-5'<-------> has been clicked<br>]]>
@@ -56,13 +56,13 @@
       <![CDATA[Current URL : https://enthrallit.com/dashboard/, Expected URL : https://enthrallit.com/dashboard/<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //h1[text()='Dashboard']] ---> Actual Header : Dashboard. Expected Header : Dashboard<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //h1[text()='Dashboard']] ---> Actual Header : Dashboard. Expected Header : Dashboard<br>]]>
     </line>
     <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
       <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT<br>]]>
@@ -71,87 +71,87 @@
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
-    </line>
-    <line>
-      <![CDATA[Sleeping ... zZz 4000<br>]]>
-    </line>
-    <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
-    </line>
-    <line>
-      <![CDATA[Kaylith1@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@name='username']]<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
     </line>
     <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
     </line>
     <line>
-      <![CDATA[Abc12345% <-----> has been put into <-----> [[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@id = 'password']]<br>]]>
-    </line>
-    <line>
-      <![CDATA[Sleeping ... zZz 4000<br>]]>
-    </line>
-    <line>
-      <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
-    </line>
-    <line>
-      <![CDATA[Proxy element for: DefaultElementLocator 'By.cssSelector: input.btn.btn-lg.px-5'<-------> has been clicked<br>]]>
+      <![CDATA[Kaylith1@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@name='username']]<br>]]>
     </line>
     <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+    </line>
+    <line>
+      <![CDATA[Abc12345% <-----> has been put into <-----> [[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@id = 'password']]<br>]]>
+    </line>
+    <line>
       <![CDATA[Sleeping ... zZz 4000<br>]]>
     </line>
     <line>
-      <![CDATA[Actual Title is : enthrallit.com ---> And Expected Title is :Enthrall IT - Dashboard<br>]]>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
+    </line>
+    <line>
+      <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> css selector: input.btn.btn-lg.px-5]<-------> has been clicked<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 4000<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sleeping ... zZz 4000<br>]]>
+    </line>
+    <line>
+      <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT - Dashboard<br>]]>
     </line>
     <line>
       <![CDATA[Screenshot has been successfully capture at: 
-C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\error_loginTest_10282024_09.13.48.png<br>]]>
+C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\error_loginTest_10312024_07.35.16.png<br>]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-10-28T21:11:50 EDT" name="Default suite" finished-at="2024-10-28T21:13:49 EDT" duration-ms="118855">
+  <suite started-at="2024-10-31T07:33:43 EDT" name="Default suite" finished-at="2024-10-31T07:35:17 EDT" duration-ms="93435">
     <groups>
     </groups>
-    <test started-at="2024-10-28T21:11:50 EDT" name="Default test" finished-at="2024-10-28T21:13:49 EDT" duration-ms="118855">
-      <class name="pagesTest.LoginByDataFromDatabaseTest">
-        <test-method is-config="true" signature="initialReporting()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:11:50 EDT" name="initialReporting" finished-at="2024-10-28T21:11:50 EDT" duration-ms="182" status="PASS">
+    <test started-at="2024-10-31T07:33:43 EDT" name="Default test" finished-at="2024-10-31T07:35:17 EDT" duration-ms="93435">
+      <class name="pagesTest.LoginByDataFromExcelTest">
+        <test-method is-config="true" signature="initialReporting()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:33:43 EDT" name="initialReporting" finished-at="2024-10-31T07:33:43 EDT" duration-ms="304" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialReporting -->
-        <test-method is-config="true" signature="initialTest(java.lang.reflect.Method)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:11:50 EDT" name="initialTest" finished-at="2024-10-28T21:11:50 EDT" duration-ms="7" status="PASS">
+        <test-method is-config="true" signature="initialTest(java.lang.reflect.Method)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:33:44 EDT" name="initialTest" finished-at="2024-10-31T07:33:44 EDT" duration-ms="15" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void pagesTest.LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)]]>
+                <![CDATA[public void pagesTest.LoginByDataFromExcelTest.loginTest(dataTestObject.User)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialTest -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:11:50 EDT" name="setup" finished-at="2024-10-28T21:11:53 EDT" duration-ms="3105" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:33:44 EDT" name="setup" finished-at="2024-10-31T07:33:50 EDT" duration-ms="5491" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:11:53 EDT" name="loginTest" data-provider="users_iterator" finished-at="2024-10-28T21:12:52 EDT" duration-ms="58453" status="PASS">
+        <test-method signature="loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:33:50 EDT" name="loginTest" data-provider="users_obj" finished-at="2024-10-31T07:34:46 EDT" duration-ms="55869" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[dataTestObject.User@35088e87]]>
+                <![CDATA[dataTestObject.User@2d5ef498]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
               <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT<br>]]>
@@ -160,34 +160,34 @@ C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\err
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
-            </line>
-            <line>
-              <![CDATA[Sleeping ... zZz 4000<br>]]>
-            </line>
-            <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
-            </line>
-            <line>
-              <![CDATA[tasnimchowdhury.qa@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@name='username']]<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
             </line>
             <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
-              <![CDATA[Darimee2010 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //input[@id = 'password']]<br>]]>
+              <![CDATA[tasnimchowdhury.qa@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@name='username']]<br>]]>
             </line>
             <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+            </line>
+            <line>
+              <![CDATA[Darimee2010 <-----> has been put into <-----> [[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //input[@id = 'password']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 4000<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
             </line>
             <line>
               <![CDATA[Proxy element for: DefaultElementLocator 'By.cssSelector: input.btn.btn-lg.px-5'<-------> has been clicked<br>]]>
@@ -205,62 +205,62 @@ C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\err
               <![CDATA[Current URL : https://enthrallit.com/dashboard/, Expected URL : https://enthrallit.com/dashboard/<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //h1[text()='Dashboard']] ---> Actual Header : Dashboard. Expected Header : Dashboard<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //h1[text()='Dashboard']] ---> Actual Header : Dashboard. Expected Header : Dashboard<br>]]>
             </line>
             <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="afterEachTest(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:12:52 EDT" name="afterEachTest" finished-at="2024-10-28T21:12:52 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:34:46 EDT" name="tearUp" finished-at="2024-10-31T07:34:46 EDT" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method is-config="true" signature="afterEachTest(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:34:46 EDT" name="afterEachTest" finished-at="2024-10-31T07:34:46 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void pagesTest.LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)]]>
+                <![CDATA[public void pagesTest.LoginByDataFromExcelTest.loginTest(dataTestObject.User)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a] output=[[ChromeDriver: chrome on windows (882598c44b0a38f73a79d057eef29db6)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]]>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginByDataFromExcelTest.loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63] output=[[ChromeDriver: chrome on windows (6ddad42ab48daa189ac98674cedf2b39)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:12:52 EDT" name="tearUp" finished-at="2024-10-28T21:12:52 EDT" duration-ms="316" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearUp -->
-        <test-method is-config="true" signature="initialTest(java.lang.reflect.Method)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:12:52 EDT" name="initialTest" finished-at="2024-10-28T21:12:52 EDT" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="initialTest(java.lang.reflect.Method)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:34:46 EDT" name="initialTest" finished-at="2024-10-31T07:34:46 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void pagesTest.LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)]]>
+                <![CDATA[public void pagesTest.LoginByDataFromExcelTest.loginTest(dataTestObject.User)]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialTest -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:12:52 EDT" name="setup" finished-at="2024-10-28T21:12:54 EDT" duration-ms="2315" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:34:46 EDT" name="setup" finished-at="2024-10-31T07:34:50 EDT" duration-ms="4123" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:12:54 EDT" name="loginTest" data-provider="users_iterator" finished-at="2024-10-28T21:13:48 EDT" duration-ms="53980" status="FAIL">
+        <test-method signature="loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:34:50 EDT" name="loginTest" data-provider="users_obj" finished-at="2024-10-31T07:35:16 EDT" duration-ms="26296" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[dataTestObject.User@51ce6f85]]>
+                <![CDATA[dataTestObject.User@f425231]]>
               </value>
             </param>
           </params>
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Title doesn't match up expected [Enthrall IT - Dashboard] but found [enthrallit.com]]]>
+              <![CDATA[Title doesn't match up expected [Enthrall IT - Dashboard] but found [Enthrall IT]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: Title doesn't match up expected [Enthrall IT - Dashboard] but found [enthrallit.com]
+              <![CDATA[java.lang.AssertionError: Title doesn't match up expected [Enthrall IT - Dashboard] but found [Enthrall IT]
 at org.testng.Assert.fail(Assert.java:111)
 at org.testng.Assert.failNotEquals(Assert.java:1578)
 at org.testng.Assert.assertEqualsImpl(Assert.java:150)
@@ -268,7 +268,7 @@ at org.testng.Assert.assertEquals(Assert.java:132)
 at org.testng.Assert.assertEquals(Assert.java:656)
 at common.CommonAction.verifyTitle(CommonAction.java:88)
 at pages.Login.landingOnDashboard(Login.java:73)
-at pagesTest.LoginByDataFromDatabaseTest.loginTest(LoginByDataFromDatabaseTest.java:43)
+at pagesTest.LoginByDataFromExcelTest.loginTest(LoginByDataFromExcelTest.java:45)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -302,7 +302,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
               <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT<br>]]>
@@ -311,78 +311,78 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
-            </line>
-            <line>
-              <![CDATA[Sleeping ... zZz 4000<br>]]>
-            </line>
-            <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
-            </line>
-            <line>
-              <![CDATA[Kaylith1@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@name='username']]<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<-------> has been clicked<br>]]>
             </line>
             <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@name='username']]<---------> is Displayed, true<br>]]>
             </line>
             <line>
-              <![CDATA[Abc12345% <-----> has been put into <-----> [[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //input[@id = 'password']]<br>]]>
-            </line>
-            <line>
-              <![CDATA[Sleeping ... zZz 4000<br>]]>
-            </line>
-            <line>
-              <![CDATA[[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
-            </line>
-            <line>
-              <![CDATA[Proxy element for: DefaultElementLocator 'By.cssSelector: input.btn.btn-lg.px-5'<-------> has been clicked<br>]]>
+              <![CDATA[Kaylith1@gmail.com <-----> has been put into <-----> [[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@name='username']]<br>]]>
             </line>
             <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@id = 'password']]<---------> is Displayed, true<br>]]>
+            </line>
+            <line>
+              <![CDATA[Abc12345% <-----> has been put into <-----> [[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //input[@id = 'password']]<br>]]>
+            </line>
+            <line>
               <![CDATA[Sleeping ... zZz 4000<br>]]>
             </line>
             <line>
-              <![CDATA[Actual Title is : enthrallit.com ---> And Expected Title is :Enthrall IT - Dashboard<br>]]>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> css selector: input.btn.btn-lg.px-5]<---------> is Enabled, true<br>]]>
+            </line>
+            <line>
+              <![CDATA[[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> css selector: input.btn.btn-lg.px-5]<-------> has been clicked<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 4000<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sleeping ... zZz 4000<br>]]>
+            </line>
+            <line>
+              <![CDATA[Actual Title is : Enthrall IT ---> And Expected Title is :Enthrall IT - Dashboard<br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="afterEachTest(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:13:48 EDT" name="afterEachTest" finished-at="2024-10-28T21:13:49 EDT" duration-ms="134" status="PASS">
+        <test-method is-config="true" signature="afterEachTest(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:35:16 EDT" name="afterEachTest" finished-at="2024-10-31T07:35:17 EDT" duration-ms="201" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void pagesTest.LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)]]>
+                <![CDATA[public void pagesTest.LoginByDataFromExcelTest.loginTest(dataTestObject.User)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[[TestResult name=loginTest status=FAILURE method=LoginByDataFromDatabaseTest.loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a] output=[[ChromeDriver: chrome on windows (a762526d084e7f9ccbbb526b61155d77)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]]>
+                <![CDATA[[TestResult name=loginTest status=FAILURE method=LoginByDataFromExcelTest.loginTest(dataTestObject.User)[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63] output=[[ChromeDriver: chrome on windows (984a92bb42dee6a153a072d2c59e7957)] -> xpath: //a[text()='Login']]<---------> is Displayed, true<br>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
               <![CDATA[Screenshot has been successfully capture at: 
-C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\error_loginTest_10282024_09.13.48.png<br>]]>
+C:\Users\mashr\eclipse-workspace\com.enthrallit_2024\test-output\screenShots\error_loginTest_10312024_07.35.16.png<br>]]>
             </line>
           </reporter-output>
         </test-method> <!-- afterEachTest -->
-        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:13:49 EDT" name="tearUp" finished-at="2024-10-28T21:13:49 EDT" duration-ms="316" status="PASS">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:35:17 EDT" name="tearUp" finished-at="2024-10-31T07:35:17 EDT" duration-ms="268" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
-        <test-method is-config="true" signature="publishReport()[pri:0, instance:pagesTest.LoginByDataFromDatabaseTest@73eb439a]" started-at="2024-10-28T21:13:49 EDT" name="publishReport" finished-at="2024-10-28T21:13:50 EDT" duration-ms="638" status="PASS">
+        <test-method is-config="true" signature="publishReport()[pri:0, instance:pagesTest.LoginByDataFromExcelTest@25be7b63]" started-at="2024-10-31T07:35:17 EDT" name="publishReport" finished-at="2024-10-31T07:35:18 EDT" duration-ms="700" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishReport -->
-      </class> <!-- pagesTest.LoginByDataFromDatabaseTest -->
+      </class> <!-- pagesTest.LoginByDataFromExcelTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

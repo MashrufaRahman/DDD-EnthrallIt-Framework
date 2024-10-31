@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pagesTest.LoginByDataFromDatabaseTest">
+      <class name="pagesTest.LoginByDataFromExcelTest">
         <methods>
           <include name="initialTest"/>
           <include name="tearUp"/>
+          <include name="loginTest" invocation-numbers="1"/>
           <include name="afterEachTest"/>
           <include name="publishReport"/>
-          <include name="loginTest" invocation-numbers="1"/>
           <include name="initialReporting"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- pagesTest.LoginByDataFromDatabaseTest -->
+      </class> <!-- pagesTest.LoginByDataFromExcelTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

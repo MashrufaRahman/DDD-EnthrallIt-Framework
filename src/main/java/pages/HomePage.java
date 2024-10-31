@@ -103,8 +103,8 @@ public class HomePage {
 	@FindBy(xpath = "//span[text()='Must be a valid Email Address.']")
 	WebElement mustBeAValidEmailAddressErrorMessagElement;
 	// how to make xpath for Max length
-	//@FindBy(xpath = "//input[@id='password']")
-	//WebElement password;
+	// @FindBy(xpath = "//input[@id='password']")
+	// WebElement password;
 	@FindBy(xpath = "//span[text()='Password is a required field.']")
 	WebElement passwordIsARequiredFieldErrorMessagElement;
 	@FindBy(xpath = "//span[text()='Must contain a minimum of 8 characters.']")

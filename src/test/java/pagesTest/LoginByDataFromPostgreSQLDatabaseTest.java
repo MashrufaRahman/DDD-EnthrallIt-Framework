@@ -1,4 +1,5 @@
 package pagesTest;
+
 import java.util.Iterator;
 import java.util.List;
 import org.testng.annotations.DataProvider;
@@ -7,7 +8,7 @@ import baseUtil.BaseClass;
 import dataTestObject.User;
 import queries.UserQueries;
 
-public class LoginByDataFromDatabaseTest extends BaseClass {
+public class LoginByDataFromPostgreSQLDatabaseTest extends BaseClass {
 	@DataProvider(name = "users_obj")
 	// why we use object?
 	// when it is not denined like String, Integer or mixed data present
@@ -17,9 +18,7 @@ public class LoginByDataFromDatabaseTest extends BaseClass {
 		for (int i = 0; i < list.size(); i++) {
 			objects[i] = new Object[] { list.get(i) };
 		}
-
 		return objects;
-
 	}
 
 	// alternative of object from above is iterator type
